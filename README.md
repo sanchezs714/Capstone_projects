@@ -1,4 +1,4 @@
-# Capstone_projects
+# Capstone projects
 Thinkful Data Science projects
 
 For my Data Science Immersive Program, I completed a project notebook illustrating my knowledge of the topics as the course progressed.
