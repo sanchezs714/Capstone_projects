@@ -26,3 +26,10 @@ The data in the report consists of several covered entities that experienced a b
 
 
 # Capstone 3
+The third topic is Unsupervised Machine Learning. The purpose was to determine how a dataset could be clustered by using dimensionality reduction techniques then comparing different cluster methods for optimal results. 
+
+I chose a dataset from Kaggle https://www.kaggle.com/xavya77/nhl04to18.
+The data in the report consists of statistics from regular and advanced games for all NHL players (omitting goalies) in 2004 through 2018 season. I wanted to find the archetypes and see how the data should be clustered in order to determine future statistics. I used two dimensionality reduction techniques on the data to input in three different clustering methods. 
+
+![image](https://user-images.githubusercontent.com/70721109/119204121-a0aa2a80-ba62-11eb-9e20-ab71e1d7be45.png)
+
