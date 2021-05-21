@@ -14,9 +14,11 @@ The first topic is Experimental Design A/B Testing. The purpose was to test a hy
 I chose a dataset from Kaggle https://www.kaggle.com/newamerica/terrorist-activity.
 The data in the report consists of individuals who are accused of terrorism within the United States since 9/11. They are either American citizens or those who engaged in terrorist activity in the United States. The data is divided into plots and suspects. I focused on the suspects dataset performing an experiment that tested whether a suspect had been radicalized online or not. 
 
+![image](https://user-images.githubusercontent.com/70721109/119200211-781e3280-ba5a-11eb-948d-f53ed83a91c1.png)
+![image](https://user-images.githubusercontent.com/70721109/119200220-7ce2e680-ba5a-11eb-8a62-4cbb3a308e15.png)
 
 # Capstone 2
-The second topic is Supervised Machine Learning. The purpose was to have a specific research question to perform a supervised machine learning algorithm 
+The second topic is Supervised Machine Learning. The purpose was to create a specific research question to perform supervised machine learning algorithms on a dataset and 
 
 
 
